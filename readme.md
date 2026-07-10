@@ -1,7 +1,7 @@
-## `# Wazuh-SOC-Lab` 
+## `# DIY-SOC-Lab` 
 
 ```
-Welcome to my Wazuh SOC Lab repository!
+This is a DIY SOC Lab repository!
 ```
 
 ```
