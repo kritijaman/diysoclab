@@ -1,7 +1,7 @@
 ## `# DIY-SOC-Lab` 
 
 ```
-This is a DIY SOC Lab repository!
+This is a DIY SOC Lab repository (i had to re-upload it because i can't find my login details of my previous github account)
 ```
 
 ```
