@@ -9,7 +9,7 @@ This project documents my journey of deploying, configuring, and implementing
 different security tools.
 ```
 
-## `# 📌Overview` 
+## `# Overview` 
 
 ```
 This project demonstrates the end-to-end deployment and configuration of
@@ -17,7 +17,7 @@ different security tools using the open-source Wazuh SIEM/XDR platform, Suricata
 IDS and Pfsense firewall.
 ```
 
-## `# Lab Architecture` 🏗️� 
+## `# Lab Architecture` � 
 
 ```
 The lab is built using VMware VMs and includes the following components:
@@ -43,10 +43,10 @@ The lab is built using VMware VMs and includes the following components:
 *Figure 1: SOC Lab Architecture.*
 ```
 
-- `# Wazuh Setup:` 🛠️� 
+- `# Wazuh Setup:` � 
 
 ```
-[Step 1. Wazuh Server & Agent setup📌 PDF Guide](docs/Wazuh_configuration.pdf)
+[Step 1. Wazuh Server & Agent setup PDF Guide](docs/Wazuh_configuration.pdf)
 ```
 
 ```
@@ -60,11 +60,11 @@ The lab is built using VMware VMs and includes the following components:
 - `Install and register endpoint agents to collect logs and centralize security visibility.` 
 
 ```
-# 📌 Implementaion & Configuration:
+# Implementaion & Configuration:
 ```
 
 ```
-[Suricata Integration 📌 PDF Guide](docs/Suricata_integration.pdf)
+[Suricata Integration: PDF Guide](docs/Suricata_integration.pdf)
 ```
 
 ```
@@ -78,7 +78,7 @@ The lab is built using VMware VMs and includes the following components:
 - `Integrate Suricata logs with Wazuh to centralize monitoring and alerts.` 
 
 ```
-[pfSense Integration 📌 PDF Guide](docs/Pfsense_integration.pdf)
+[pfSense Integration: PDF Guide](docs/Pfsense_integration.pdf)
 ```
 
 ```
@@ -90,7 +90,7 @@ The lab is built using VMware VMs and includes the following components:
 - `Configure remote logging and forward pfSense events into Wazuh for analysis. - Create custom decoders and rules in Wazuh to detect allowed, blocked, and authentication events.` 
 
 ```
-[VirusTotal Integration 📌 PDF Guide](docs/VirusTotal_integration.pdf)
+[VirusTotal Integration: PDF Guide](docs/VirusTotal_integration.pdf)
 ```
 
 ```
@@ -108,7 +108,7 @@ analysis.
 ```
 
 ```
-[File integrity monitoring 📌 PDF Guide](docs/File_integrity_monitoring.pdf)
+[File integrity monitoring: PDF Guide](docs/File_integrity_monitoring.pdf)
 ```
 
 ```
@@ -122,7 +122,7 @@ analysis.
 - `Validate by creating, modifying, and deleting files to confirm Wazuh generates alerts for each action.` 
 
 ```
-[Logs & Sysmon ingestion 📌 PDF Guide](docs/Logs&Sysmon_ingestion.pdf)
+[Logs & Sysmon ingestion: PDF Guide](docs/Logs&Sysmon_ingestion.pdf)
 ```
 
 ```
@@ -136,11 +136,11 @@ analysis.
 - `Ingest Sysmon logs into Wazuh for centralized monitoring, correlation, and custom rule-based threat detection.` 
 
 ```
-# 📌 Brute Force Attack: Simulation, Detection & Defense:
+# Brute Force Attack: Simulation, Detection & Defense:
 ```
 
 ```
-[Brute Force Attack Simulation & Wazuh Investigation 📌 PDF
+[Brute Force Attack Simulation & Wazuh Investigation PDF
 Guide](docs/SSH_Brute_Force.pdf)
 ```
 
@@ -190,11 +190,11 @@ practices: log analysis, alert triage, rule tuning, and threat hunting queries.
 unauthorized activities.
 ```
 
-## `## 📌 Full Documentation` 
+## `## Full Documentation` 
 
-`You can download the complete SOC Home Lab guide here: [` 📥 `SOC_Home_Lab_Guide.pdf](docs/diysoclab.pdf)` 
+`You can download the complete SOC Home Lab guide here: [``SOC_Home_Lab_Guide.pdf](docs/diysoclab.pdf)` 
 
-- `📌 Connect with Me:` 
+- `Connect with Me? :` 
 
 ```
 [LinkedIn](https://www.linkedin.com/in/kritij-aman-mandal-51b5a5272/)
